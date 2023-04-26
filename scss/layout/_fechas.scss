@@ -1,0 +1,21 @@
+/*estilo de la tabla de fechas*/
+
+.fechas,
+th,
+td {
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-left: 350px;
+    margin-bottom: 200px;
+    margin-top: 50px;
+    background-color: darkorange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.fechas,
+th {
+    background-color: crimson;
+}
