@@ -106,18 +106,6 @@
 }
 
 /*pagina contacto*/
-/*
-.formulario {
-    width: 100%;
-    max-width: 600px;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
-}*/
 form {
   width: 450px;
   margin: auto;
@@ -136,7 +124,8 @@ h2 {
   margin-bottom: 20px;
 }
 
-input, textarea {
+input,
+textarea {
   width: 100%;
   margin-bottom: 20px;
   padding: 7px;
@@ -177,6 +166,7 @@ textarea {
   margin: 0;
   padding: 0;
   table-layout: fixed;
+  margin-bottom: 20px;
 }
 
 .fechas td:hover {
